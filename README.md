@@ -9,4 +9,4 @@ TO TEST JWT WEB API WITH POSTMAN
 
 2. Secondly, reach http://YOURLOCAL/api/values with Postman as Bearer Token Authorization by writing your token.
 
-                                                                                 written by Mustafa Çağatay KIZILTAN
+                                                                   written by Mustafa Çağatay KIZILTAN
